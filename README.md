@@ -15,15 +15,13 @@
 
 - 🤝 I’m looking for help with **building my professional network**
 
-- 👨‍💻 All of my projects are available at [<...>](<...>)
-
 - 📝 I plan to regularly write articles on Medium
 
 - 💬 Ask me about **MERN stack, Python and DSA**
 
 - 📫 How to reach me **shivanshshekhar11@gmail.com**
 
-- 📄 Know about my experiences [<...>](<...>)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1lDZS5Io139uccLO5nG6zAzn50qe-TvXz/view?usp=sharing)
 
 - ⚡ Fun fact **I've never been to Switzerland.**
 
@@ -31,7 +29,7 @@
 [![](https://visitcount.itsvg.in/api?id=shivanshshekhar11&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shivsnshshekhar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shvnshbhrdwj14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshshekhar11) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shivanshshekhar11) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shvnshbhrdwj14) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shivanshshekhar11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shvnshbhrdwj14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshshekhar11) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shivanshshekhar11) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shvnshbhrdwj14) 
 
   <a href="https://www.hackerrank.com/shvnshshkhr11">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
