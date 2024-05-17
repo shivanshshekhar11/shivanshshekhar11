@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello there, I'm Shivansh</h1>
-<h3 align="center">A computer science enthusiast who's good at learning new things.</h3>
+<h3 align="center">A computer science enthusiast who likes learning new stuff.</h3>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **System Design and AI/ML**
 
-- 👯 I’m looking to collaborate on **any worthwhile projects that will teach me new stuff**
+- 👯 I’m looking to collaborate on **any worthwhile projects**
 
 - 🤝 I’m looking for help with **building my professional network**
 
