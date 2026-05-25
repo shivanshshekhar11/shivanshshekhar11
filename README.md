@@ -147,29 +147,11 @@ An open-source TypeScript code generation library that produces Drizzle ORM sche
 
 <div align="center">
 
-<img src="https://github-readme-stats-ten-psi-12.vercel.app/api?username=shivanshshekhar11&theme=algolia&border_radius=12&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Shivansh's GitHub stats" />
-
-<br/>
-
-<img src="https://github-readme-stats-ten-psi-12.vercel.app/api/top-langs/?username=shivanshshekhar11&theme=algolia&border_radius=12&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=shivanshshekhar11&theme=algolia&border_radius=12&hide_border=true&card_width=495" alt="GitHub Streak" />
 
 <br/>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shivanshshekhar11?theme=dark&font=Mate&hide_border=true&border_radius=15&ext=contest)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivanshshekhar11&theme=algolia&hide_border=true&no-frame=true&margin-w=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
