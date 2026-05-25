@@ -1,91 +1,208 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="200" height="170"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=500&pause=99999&color=6C8EF5&center=true&vCenter=true&width=200&lines=nine-inch-nails%40grid%3E" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1000&pause=99999&color=6C8EF5&vCenter=true&width=75&lines=+init+_" />
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3600&pause=2000&delay=1800&color=6C8EF5&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Shivansh+%F0%9F%91%8B;Backend+Engineer+%7C+Systems+Thinker;Building+infra+that+scales+%E2%80%94+quietly." alt="Typing SVG" />
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshshekhar11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshshekhar11)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/shvnshbhrdwj14)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=About.me&logoColor=white)](https://shivanshshekhar11.onrender.com/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shivanshshekhar11&color=6C8EF5&style=flat-square&label=Profile+Views)
+&nbsp;&nbsp;
+![Open to Work](https://img.shields.io/badge/Open%20to%20Remote%20Roles-%2300C853.svg?style=flat-square&logoColor=white)
+
 </div>
 
-<h1 align="center">Hello there, I'm Shivansh</h1>
+---
 
-<br/>
+```yaml
+name:       Shivansh Shekhar
+role:       Backend Engineer (SDE 2)
+location:   India · Remote-first
+experience: 3+ years
 
-A technology enthusiast here who likes to learn new stuff. I was introduced to C++ in high school and was mesmerized as I peeked behind the curtain of a computer screen. Now, after completing my Bachelors of Technology in Computer Science, I aim to build amazing stuff in the field of computers.
+core_stack:
+  - TypeScript / Node.js / Fastify
+  - PostgreSQL / Drizzle ORM / pgvector
+  - Redis · BullMQ · RabbitMQ
+  - Docker · GitHub Actions · DigitalOcean / AWS
 
-When I'm not coding ... I'm into reading, gaming and volleyball.
+specialties:
+  - Multi-tenant SaaS architectures
+  - Distributed systems & event-driven design
+  - LLM infrastructure & AI-native backends
+  - TypeScript SDKs & developer tooling
 
-- 🔭 I’m currently working as a **Software Developer**
+currently:  Building in public · targeting async-first product teams internationally
+beyond_code: Books · Games · internet lore · Volleyball
+```
 
-- 🌱 I’m currently learning **Full Stack Development and Systems Design**
+---
 
-- 👯 I’m looking to collaborate on **any worthwhile projects**
+## 🛠️ What I've Shipped
 
-- 🤝 I’m looking for help with **building my professional network**
+### [Supergate](https://github.com/shivanshshekhar11/supergate) — Multi-tenant LLM Gateway
+> *One OpenAI-compatible endpoint to rule them all.*
 
-- 💬 I'm proficient in **DSA, Python, Flask and Next.js**
+A production-grade LLM API gateway unifying OpenAI, Anthropic, Google, Cohere, and Mistral behind a single interface — with semantic caching, RBAC, cost attribution, PII masking, and per-provider circuit breakers.
 
-- ⚡ Fun fact **I've never been to Switzerland.**
+`Fastify` `TypeScript` `PostgreSQL + pgvector` `Redis` `Docker` `GitHub Actions`
 
-<br/>
+- **~40% reduction** in redundant LLM API costs via pgvector HNSW semantic cache
+- Tenant-isolated RBAC + hybrid API key management
+- Ships with a TypeScript SDK, Next.js analytics dashboard, and full Compose stack
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshshekhar11@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshshekhar11) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/shvnshbhrdwj14) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@shvnshbhrdwj14) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/699238764110676058)
+---
 
-<br/>
+### [Pulse](https://github.com/shivanshshekhar11/pulse) — Self-hostable Feature Flag Service
+> *Zero-latency flag evaluation with real-time propagation.*
 
-<h2>Tools</h2>
+Enterprise-grade feature flagging with a custom recursive rule engine, consistent hashing for sticky rollouts, and SSE + Redis Pub/Sub for instant propagation — no round-trips to the server on every request.
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br/>
+`Fastify` `Turborepo` `PostgreSQL` `Redis Pub/Sub` `SSE` `TypeScript SDK`
 
-<h2>Featured Projects</h2>
+- Three-tier SDK fallback logic for zero-latency local evaluation
+- Two-level RBAC management dashboard built in Next.js
+- Fumadocs documentation site + Docker + automated release pipelines
+
+---
+
+### [Define](https://github.com/shivanshshekhar11/define) — Type-safe Resource DSL
+> *One schema. Zero drift across DB, API, and docs.*
+
+An open-source TypeScript code generation library that produces Drizzle ORM schemas, typed repositories, Fastify validators, and OpenAPI 3.1 specs from a single resource definition.
+
+`TypeScript` `Drizzle` `Fastify` `OpenAPI 3.1` `CLI`
+
+- Multi-adapter architecture: Drizzle · Fastify · OpenAPI generators
+- CLI with project scaffolding and granular generation commands
+- Eliminates schema drift across database, API, and documentation layers
+
+---
+
+## ⚙️ Tech Stack
+
 <table>
   <tr>
-    <td align="center" width="300" height="200">
-      <img src="https://cloud.appwrite.io/v1/storage/buckets/659d3794a5dc1071834b/files/659e94d8375d27b47fac/view?project=659d35d6864786eda772&mode=admin"  alt="CloudJot"/>
-      <br>
-      <strong>CloudJot</strong>
-      <br>
-      A temporary cloud storage
+    <td valign="top" width="33%">
+      <b>Languages</b><br/>
+      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/SQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
-    <td align="center" width="300" height="200">
-      <img src="https://cloud.appwrite.io/v1/storage/buckets/659d3794a5dc1071834b/files/65ad18b8047b90424a61/view?project=659d35d6864786eda772&mode=admin"  alt="Barkeep"/>
-      <br>
-      <strong>Barkeep</strong>
-      <br>
-      A cocktails explorer app
-      </td>
-    <td align="center" width="300" height="200">
-      <img src="https://cloud.appwrite.io/v1/storage/buckets/659d3794a5dc1071834b/files/666accaf000a4309a92d/view?project=659d35d6864786eda772&mode=admin" alt="Notes CLI"/>
-      <br>
-      <strong>Notes CLI</strong>
-      <br>
-      A CLI app for notes
+    <td valign="top" width="33%">
+      <b>Backend & APIs</b><br/>
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Fastify-%23000000.svg?style=flat-square&logo=fastify&logoColor=white"/>
+      <img src="https://img.shields.io/badge/oRPC-6C8EF5?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
+    </td>
+    <td valign="top" width="33%">
+      <b>Databases & Cache</b><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pgvector-6C8EF5?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="300" height="200">
-      <strong>More</strong>
-      <br>
-      <a href="https://shivanshshekhar11.onrender.com/">Explore my portfolio</a>
+    <td valign="top">
+      <b>Infra & Cloud</b><br/>
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/>
+    </td>
+    <td valign="top">
+      <b>Queues & Distributed</b><br/>
+      <img src="https://img.shields.io/badge/BullMQ-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka"/>
+    </td>
+    <td valign="top">
+      <b>Observability & Tooling</b><br/>
+      <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vitest-6C8EF5?style=flat-square&logo=vitest&logoColor=white"/>
     </td>
   </tr>
 </table>
 
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-ten-psi-12.vercel.app/api?username=shivanshshekhar11&theme=algolia&border_radius=12&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Shivansh's GitHub stats" />
+
 <br/>
 
-<h2>Stats</h2>
+<img src="https://github-readme-stats-ten-psi-12.vercel.app/api/top-langs/?username=shivanshshekhar11&theme=algolia&border_radius=12&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
-![](https://github-readme-stats.vercel.app/api?username=shivanshshekhar11&theme=algolia&border_radius=15&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)<br/>
+<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivanshshekhar11&theme=algolia&border_radius=15&hide_border=true)<br/>
+<img src="https://streak-stats.demolab.com/?user=shivanshshekhar11&theme=algolia&border_radius=12&hide_border=true&card_width=495" alt="GitHub Streak" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshshekhar11&theme=algolia&border_radius=15&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-
-![](https://github-profile-trophy.vercel.app/?username=shivanshshekhar11&theme=algolia&hide_border=true&no-frame=false&no-bg=true&margin-w=4)<br/>
-
-![](https://github-contributor-stats.vercel.app/api?username=shivanshshekhar11&limit=5&theme=algolia&hide_border=true&combine_all_yearly_contributions=true)
+<br/>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shivanshshekhar11?theme=dark&font=Mate&hide_border=true&border_radius=15&ext=contest)
 
-<h2>Random Quote</h2>
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivanshshekhar11&theme=algolia&hide_border=true&no-frame=true&margin-w=6&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- 🍃 **MongoDB Certified Associate Developer** (JavaScript)
+- 📐 **Algorithms Specialization** — Stanford University via Coursera
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking for **remote backend / full-stack roles** at product teams and startups — ideally async-first, with real engineering problems to solve. If that sounds like your team, reach out.
+
+I'm also always up to talk distributed systems, LLM infra, TypeScript DSL design, or why [The Backrooms](https://en.wikipedia.org/wiki/The_Backrooms) is genuinely unsettling.
+
+<div align="center">
+
+<br/>
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshshekhar11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshshekhar11)
+
+<br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border_radius=15)
 
-(Credit to <a href="https://www.deviantart.com/ciangmz/art/Modern-Samurai-844889677">ciangmz</a> for profile picture art)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<div align="center">
+  <sub>All rights reserved. Dillinger Systems (2025)</sub>
+</div>
