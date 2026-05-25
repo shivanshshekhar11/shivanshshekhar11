@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3600&pause=2000&delay=1800&color=6C8EF5&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Shivansh+%F0%9F%91%8B;Backend+Engineer+%7C+Systems+Thinker;Building+infra+that+scales+%E2%80%94+quietly." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3600&pause=2000&delay=1800&color=6C8EF5&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Shivansh+%F0%9F%91%8B;Backend+Engineer+%7C+Systems+Thinker;Building+infra+that+scales." alt="Typing SVG" />
 
 <br/>
 
@@ -154,13 +154,6 @@ An open-source TypeScript code generation library that produces Drizzle ORM sche
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shivanshshekhar11?theme=dark&font=Mate&hide_border=true&border_radius=15&ext=contest)
 
 </div>
-
----
-
-## 📜 Certifications
-
-- 🍃 **MongoDB Certified Associate Developer** (JavaScript)
-- 📐 **Algorithms Specialization** — Stanford University via Coursera
 
 ---
 
